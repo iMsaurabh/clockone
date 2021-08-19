@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/clockone/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/clockone/static/js/main.853519fd.chunk.js",
-    "main.js.map": "/clockone/static/js/main.853519fd.chunk.js.map",
-    "runtime-main.js": "/clockone/static/js/runtime-main.9829ce3f.js",
-    "runtime-main.js.map": "/clockone/static/js/runtime-main.9829ce3f.js.map",
-    "static/js/2.3679e8c5.chunk.js": "/clockone/static/js/2.3679e8c5.chunk.js",
-    "static/js/2.3679e8c5.chunk.js.map": "/clockone/static/js/2.3679e8c5.chunk.js.map",
-    "static/js/3.b2d6cd8b.chunk.js": "/clockone/static/js/3.b2d6cd8b.chunk.js",
-    "static/js/3.b2d6cd8b.chunk.js.map": "/clockone/static/js/3.b2d6cd8b.chunk.js.map",
+    "main.css": "/clockone/static/css/main.b4cfaf6c.chunk.css",
+    "main.js": "/clockone/static/js/main.33e8c028.chunk.js",
+    "main.js.map": "/clockone/static/js/main.33e8c028.chunk.js.map",
+    "runtime-main.js": "/clockone/static/js/runtime-main.5b08795b.js",
+    "runtime-main.js.map": "/clockone/static/js/runtime-main.5b08795b.js.map",
+    "static/css/2.c490997a.chunk.css": "/clockone/static/css/2.c490997a.chunk.css",
+    "static/js/2.733414d6.chunk.js": "/clockone/static/js/2.733414d6.chunk.js",
+    "static/js/2.733414d6.chunk.js.map": "/clockone/static/js/2.733414d6.chunk.js.map",
+    "static/js/3.0ae06f2f.chunk.js": "/clockone/static/js/3.0ae06f2f.chunk.js",
+    "static/js/3.0ae06f2f.chunk.js.map": "/clockone/static/js/3.0ae06f2f.chunk.js.map",
     "index.html": "/clockone/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/clockone/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.3679e8c5.chunk.js.LICENSE.txt": "/clockone/static/js/2.3679e8c5.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/clockone/static/media/logo.6ce24c58.svg"
+    "static/css/2.c490997a.chunk.css.map": "/clockone/static/css/2.c490997a.chunk.css.map",
+    "static/css/main.b4cfaf6c.chunk.css.map": "/clockone/static/css/main.b4cfaf6c.chunk.css.map",
+    "static/js/2.733414d6.chunk.js.LICENSE.txt": "/clockone/static/js/2.733414d6.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/clockone/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.9829ce3f.js",
-    "static/js/2.3679e8c5.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.853519fd.chunk.js"
+    "static/js/runtime-main.5b08795b.js",
+    "static/css/2.c490997a.chunk.css",
+    "static/js/2.733414d6.chunk.js",
+    "static/css/main.b4cfaf6c.chunk.css",
+    "static/js/main.33e8c028.chunk.js"
   ]
 }
